@@ -1,8 +1,8 @@
-\# Assignment 3 - User Input
+ Assignment 3 - User Input
 
 
 
-\## Objective
+ Objective
 
 
 
@@ -10,19 +10,18 @@ Learn how to collect user input using the `input()` function.
 
 
 
-\## What I Learned
+ What I Learned
+
+
+ Using `input()`
+
+ Storing user input
+
+Displaying formatted output
 
 
 
-\- Using `input()`
-
-\- Storing user input
-
-\- Displaying formatted output
-
-
-
-\## How to Run
+ How to Run
 
 
 
@@ -34,7 +33,7 @@ python registration.py
 
 
 
-\## Sample Output
+Sample Output
 
 
 

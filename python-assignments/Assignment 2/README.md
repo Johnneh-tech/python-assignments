@@ -1,17 +1,17 @@
- Assignment 2 - Variables
+# Assignment 2 - Variables
 
- Objective
+## Objective
 
 Learn how to store and display data using variables.
 
- What I Learned
+## What I Learned
 
 - Variables
 - Data types
 - Formatted output
 - Basic calculations
 
- How to Run
+## How to Run
 
 ```bash
 python student_card.py

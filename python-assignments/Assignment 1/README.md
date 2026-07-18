@@ -1,18 +1,20 @@
 # Assignment 1 - My First Python Program
 
-Objective
+## Objective
 
 Learn how to print output using Python.
 
- What I Learned
+## What I Learned
 
 - Using the `print()` function
 - Displaying text
 - Formatting output
 
- How to Run the Program
+## How to Run the Program
 
-I used vs code to test the program
+```bash
+python profile.py
+```
 
  Sample Output
 

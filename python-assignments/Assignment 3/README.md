@@ -1,16 +1,16 @@
- Assignment 3 - User Input
+# Assignment 3 - User Input
 
 
 
- Objective
+## Objective
 
 
 
-Learn how to collect user input using the `input()` function.
+## Learn how to collect user input using the `input()` function.
 
 
 
- What I Learned
+ ## What I Learned
 
 
  Using `input()`
@@ -21,7 +21,7 @@ Displaying formatted output
 
 
 
- How to Run
+ ## How to Run
 
 
 

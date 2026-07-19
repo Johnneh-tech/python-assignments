@@ -3,7 +3,7 @@ from datetime import datetime
 full_name = "John Boniface"
 age = 20
 department = "Computer Science"
-school = "Playeau StateUniversity"
+school = "Plateau State University"
 level = "300 Level"
 state = "Plateau state"
 favorite_color = "Blue"

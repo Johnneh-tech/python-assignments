@@ -1,11 +1,11 @@
 from datetime import datetime
 
-full_name = "John Doe"
+full_name = "John Boniface"
 age = 20
 department = "Computer Science"
-school = "ABC University"
-level = "200 Level"
-state = "Lagos"
+school = "Playeau StateUniversity"
+level = "300 Level"
+state = "Plateau state"
 favorite_color = "Blue"
 favorite_food = "Rice"
 

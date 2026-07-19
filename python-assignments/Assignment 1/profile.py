@@ -4,9 +4,10 @@ print("****************************")
 
 print("WELCOME TO PYTHON\n")
 
-print("Name: John Doe")
-print("School: ABC University")
+print("Name: John Bonifce")
+print("Plateau State University")
 print("Department: Computer Science")
+print("300 level")
 print("Favourite Food: Rice")
 print("Favourite Programming Language: Python")
 
